@@ -1,2 +1,2 @@
 # sample-api-call
-Sample API call (Crowdtangle as example) via Requests
+Sample API call via Requests
